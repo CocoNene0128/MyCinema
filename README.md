@@ -1,5 +1,5 @@
 # MyCinema
-영화 · TV 리뷰 플랫폼 (Spring Boot)
+Spring Boot 기반으로 구현한 영화·TV 프로그램 정보 제공 웹 서비스
 
 ## 프로젝트 개요
 Spring Boot 기반의 영화 및 TV 리뷰 관리 서버입니다.  
