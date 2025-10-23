@@ -32,7 +32,7 @@ Spring Boot 기반 서버를 구축해 회원 관리, 댓글 기능, 마이페�
 ---
 
 ## 🧱 ERD
-![ERD](./images/mycunema_erd.png
+![ERD](./images/mycunema_erd.png)
 
 ---
 
