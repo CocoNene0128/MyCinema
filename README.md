@@ -32,7 +32,7 @@ Spring Boot 기반 서버를 구축해 회원 관리, 댓글 기능, 마이페�
 ---
 
 ## 🧱 ERD
-![ERD](./images/mycinema_erd.png)
+
 
 ---
 
