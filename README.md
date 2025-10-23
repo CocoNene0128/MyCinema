@@ -1,21 +1,43 @@
-# MyCinema
-Spring Boot 기반으로 구현한 영화·TV 프로그램 정보 제공 웹 서비스
+# 🎬 MyCinema
+영화와 TV 프로그램의 정보를 조회하고 리뷰를 남길 수 있는 플랫폼입니다.  
+Spring Boot 기반 서버를 구축해 회원 관리, 댓글 기능, 마이페이지 등  
+콘텐츠 중심의 백엔드 로직을 구현했습니다.
 
-## 프로젝트 개요
-Spring Boot 기반의 영화 및 TV 리뷰 관리 서버입니다.  
-회원 인증, 댓글 관리, 영화/TV 데이터 처리 등 백엔드 핵심 로직을 구현했습니다.
+---
 
-## 주요 기능
-- ✅ 회원가입 / 로그인 / 비밀번호 찾기  
-- ✅ 영화 / TV 데이터 조회 및 검색  
-- ✅ 댓글 등록 / 수정 / 삭제 (RestController)  
-- ✅ JPA 기반 CRUD 구현  
+## 💡 프로젝트 개요
+사용자가 영화/TV 정보를 확인하고 댓글 및 별점을 등록할 수 있는 서비스입니다.  
+회원 인증부터 콘텐츠 CRUD, 댓글 관리까지 서버 중심으로 구현했습니다.
 
-## 기술 스택
-- **Back-end** : Java 17, Spring Boot, JPA, MySQL  
-- **Tools** : GitHub, SourceTree  
+---
 
-## 담당 역할
-- Back-end Development  
-- API 설계 및 CRUD 구현  
-- 영화/TV 데이터 관리 및 테스트
+## ⚡ 개발 기간
+2025.07 ~ 2025.07
+
+---
+
+## 🛠 기술 스택
+- **Back-end** : Java 17 · Spring Boot · JPA · MySQL  
+- **Tools** : IntelliJ · GitHub · SourceTree  
+
+---
+
+## 🧩 담당 역할
+- **Back-end Development**  
+  - 회원가입 / 로그인 / 비밀번호 찾기 기능 구현  
+  - 영화 / TV 데이터 CRUD 및 검색 기능 개발  
+  - 댓글(리뷰) 관련 API 및 권한 처리  
+  - 엔티티 설계 및 데이터 정합성 관리  
+
+---
+
+## 🧱 ERD
+![ERD](./images/mycinema_erd.png)
+
+---
+
+## 💭 프로젝트를 통해 배운 점
+서비스 전반의 백엔드 로직을 혼자 담당하며  
+Spring Boot와 JPA 구조를 깊이 이해할 수 있었습니다.  
+엔티티 관계 설계와 트랜잭션 처리를 다루며  
+데이터 정합성과 API 구조 설계의 중요성을 직접 체감했습니다.
